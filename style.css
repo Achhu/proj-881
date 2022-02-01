@@ -1,0 +1,23 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:url(Grass.jpg);
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background-color:forestgreen;
+	border-color:lightsalmon;
+}
+
+
+#hd3{
+	display: inline-block;
+	color: darkslateblue;
+	background-color:lightgoldenrodyellow;
+	font-family:'Times New Roman', Times, serif;
+	font-size:xx-large;
+}
+
